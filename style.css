@@ -1,0 +1,24 @@
+.primaria{
+    color: #313b1f;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.margem{
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.bg-cor{
+    background-color: #313b1f;
+}
+
+.txt-cor{
+    color: white;
+}
+
+.navbar{
+    background-color: #5f842e;
+}
+
